@@ -136,7 +136,6 @@ AUTHENTICATION_BACKENDS = [
     'api.backends.ConfirmUserRegistrationAuthentication',
 ]
 
-# ограничения на уровне проекта
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.IsAuthenticatedOrReadOnly',

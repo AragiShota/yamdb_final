@@ -1,6 +1,6 @@
 ![yamdb](https://github.com/AragiShota/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-API развернут по адресу http://84.252.143.224/api/v1/
+API развернут по адресу http://84.201.135.117/api/v1/
 # Описание проекта
 YaMDb - проект, собирающий отзывы на произведения(книги, фильмы, музыка и т.д.). 
 Сами произведения в проекте не хранятся.

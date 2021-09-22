@@ -1,4 +1,4 @@
-![yamdb](https://github.com/valerycode/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![yamdb](https://github.com/AragiShota/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 API развернут по адресу http://84.252.143.224/api/v1/
 # Описание проекта
@@ -16,7 +16,7 @@ YaMDb - проект, собирающий отзывы на произведе�
 ### Как развернуть проект (на сервере)
  - сделать fork проекта в свой аккаунт
 
-[![](https://img.shields.io/badge/my%20project-fork!-informational?style=for-the-badge&logo=appveyor)](https://github.com/valerycode/yamdb_final/fork)
+[![](https://img.shields.io/badge/my%20project-fork!-informational?style=for-the-badge&logo=appveyor)](https://github.com/AragiShota/yamdb_final/fork)
 - добавить свои данные для переменных в secrets:
 ```
 DB_ENGINE
